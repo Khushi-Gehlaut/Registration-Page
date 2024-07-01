@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+US+Modern:wght@100..400&display=swap');
+body {
+    background-image: linear-gradient(#e66465, #9198e5);
+  }
+  h2{
+    font-family:"Playwrite US Modern", cursive;
+  }
+  .container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .error {
+    color: red;
+    font-size: 0.9em;
+  }
+  
